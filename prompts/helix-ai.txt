@@ -1,0 +1,1 @@
+Create a landing page for an AI startup called Helix. Futuristic dark design with neon glow accents, animated particle background, glass cards, 'how it works' 3-step section, live demo placeholder, integration logos row, pricing, and a waitlist email form. Single HTML file, responsive, no external dependencies.

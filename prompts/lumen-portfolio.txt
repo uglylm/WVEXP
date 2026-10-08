@@ -1,0 +1,1 @@
+Create a clean light-mode portfolio site for a designer called Lumen. Minimal grid-based project gallery with hover overlays, about section, services, and a simple contact form. Lots of whitespace, elegant serif headings. Single HTML file, fully responsive.

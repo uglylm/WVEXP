@@ -1,0 +1,1 @@
+Create a developer-tool landing page called Quantum. Dark theme with terminal-style hero showing fake CLI commands, code snippet blocks with syntax colors, 3-column features, docs link cards, pricing, and GitHub star button placeholder. Single HTML file, responsive.

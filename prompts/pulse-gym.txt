@@ -1,0 +1,1 @@
+Create a high-energy landing page for a gym called Pulse. Dark theme with red/orange accents, video-style hero with bold headline, class schedule table, trainer cards, membership pricing, BMI calculator widget, and signup form. Single HTML file, responsive, vanilla JS only.

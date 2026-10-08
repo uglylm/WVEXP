@@ -1,0 +1,1 @@
+Create a professional real estate landing page called Northwind. Light theme, hero with property search bar, featured listings grid with cards (price, beds, baths), map placeholder section, agent profiles, and mortgage calculator widget. Single HTML file, responsive.

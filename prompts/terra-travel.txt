@@ -1,0 +1,1 @@
+Create a fullscreen photography-first travel landing page called Terra. Minimal UI over large hero imagery placeholders, destination cards with parallax-style hover, itinerary section, travel stats, and booking CTA. Single HTML file, fully responsive.

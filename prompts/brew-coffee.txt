@@ -1,0 +1,1 @@
+Create a warm, minimal landing page for a coffee roastery called Brew. Cream and brown palette, hero with product photography placeholder, story section, roast-level selector cards, subscription pricing, and a shop grid. Single HTML file, responsive, no dependencies.

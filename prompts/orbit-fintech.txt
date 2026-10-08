@@ -1,0 +1,1 @@
+Create a fintech dashboard landing page called Orbit. Dark UI with a live-looking analytics dashboard mockup built in pure HTML/CSS (line chart, stat cards, transaction table), features grid, security section, pricing, and footer. Single HTML file, responsive.

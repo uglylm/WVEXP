@@ -1,0 +1,1 @@
+Create a futuristic Web3 landing page called Vertex. Dark background with neon green accents, 3D-style token graphic placeholder, live stats ticker, features with glow cards, roadmap timeline, tokenomics chart section, and community links. Single HTML file, responsive.

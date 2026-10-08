@@ -1,0 +1,1 @@
+Create a single-file HTML landing page for a SaaS product called Nova. Dark theme with a purple-to-blue gradient, glassmorphism navbar, animated hero with floating dashboard mockup, 3-column features grid, pricing table with 3 tiers, testimonials carousel, FAQ accordion, and a bold CTA footer. Fully responsive, use inline CSS and vanilla JS only.

@@ -1,0 +1,1 @@
+Create a dark podcast network landing page called Echo. Hero with audio waveform animation in vanilla JS, featured episode cards with play buttons, host profiles, subscription platforms row, and newsletter signup. Single HTML file, fully responsive.

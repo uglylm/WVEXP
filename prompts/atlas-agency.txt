@@ -1,0 +1,1 @@
+Create a portfolio-style landing page for a creative agency called Atlas. Bold editorial layout, oversized typography, horizontal scrolling case studies, team grid, services list with hover effects, and a contact form. Light background with black and one accent color. Single HTML file, fully responsive.
